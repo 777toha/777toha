@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/figma-494D4E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 
 #### Контакты:  
-[![badge](https://img.shields.io/badge/anton.lyscov@yandex.ru-Yandex-1C92EB)](mailto:anton.lyscov@yandex.ru) [![badge](https://img.shields.io/badge/'@bad_ninja'-Telegram-1C92EB)](https://t.me/bad_ninja)
+[![badge](https://img.shields.io/badge/anton.lyscov@yandex.ru-Yandex-1C92EB)](mailto:anton.lyscov@yandex.ru) [![badge](https://img.shields.io/badge/@bad_ninja-Telegram-1C92EB)](https://t.me/bad_ninja)
 
 #### Статистика:
 <p>
