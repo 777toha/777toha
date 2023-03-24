@@ -24,10 +24,9 @@
 ![Figma](https://img.shields.io/badge/figma-494D4E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 
 #### Контакты:  
-[![badge](https://img.shields.io/badge/anton.lyscov@yandex.ru-Yandex-1C92EB)](mailto:anton.lyscov@yandex.ru) [![badge](https://img.shields.io/badge/@bad_ninja-Telegram-1C92EB)](https://t.me/bad_ninja)
+[![badge](https://img.shields.io/badge/anton.lyscov@yandex.ru-Yandex-1C92EB)](mailto:anton.lyscov@yandex.ru) [![badge](https://img.shields.io/badge/'@bad_ninja'-Telegram-1C92EB)](https://t.me/bad_ninja)
 
 #### Статистика:
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=777toha&theme=merko&hide_border=true" width=45%>
-  <img src="https://github-readme-stats.vercel.app/api?username=777toha&show_icons=true&theme=light" width=45%>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=777toha&theme=merko&hide_border=true" width=45%> 
 </p>
