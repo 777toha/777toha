@@ -1,7 +1,5 @@
 ### Привет! меня зовут Антон 👋
 
-- Хочу работать в опытной команде
-
 #### Используемые языки и технологии:
 > *frontend:*  
 ![JavaScript](https://img.shields.io/badge/javascript-494D4E.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
